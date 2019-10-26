@@ -71,7 +71,7 @@
     "react-dnd-html5-backend": "^7.0.2",
     "react-document-title": "git+https://github.com/dremio/react-document-title.git",
     "react-dom": "^16.7.0",
-    "react-dropzone": "^4.1.2",
+    "react-dropzone": "^10.1.10",
     "react-immutable-proptypes": "^2.1.0",
     "react-intl": "^2.3.0",
     "react-json-tree": "git+https://github.com/dremio/react-json-tree.git",
