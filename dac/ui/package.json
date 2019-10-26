@@ -73,7 +73,7 @@
     "react-dom": "^16.7.0",
     "react-dropzone": "^4.1.2",
     "react-immutable-proptypes": "^2.1.0",
-    "react-intl": "^2.3.0",
+    "react-intl": "^3.3.2",
     "react-json-tree": "git+https://github.com/dremio/react-json-tree.git",
     "react-modal": "^3.8.1",
     "react-monaco-editor": "^0.10.1",
